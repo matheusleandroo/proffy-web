@@ -34,6 +34,8 @@ You must have the <a href="https://github.com/matheusleandroo/proffy-api">Proffy
 
 After clone repository, go to folder and follow this steps:
 
+- Create a file **`.env`** based on the file **`.env.example`**;
+- Place your settings inside the **`.env`** file;
 - Run **`yarn`** to install dependencies;
 - Run **`yarn start`** to start de aplication.
 
